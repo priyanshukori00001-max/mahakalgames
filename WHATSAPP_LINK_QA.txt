@@ -1,0 +1,32 @@
+PASS | 01 Desktop landing page renders
+PASS | 02 Website title matches game theme
+PASS | 03 Desktop header/hero renders
+PASS | 04 All five WhatsApp CTA elements retained
+PASS | 05 All five WhatsApp CTAs enabled
+PASS | 06 Supplied URL in config exactly
+PASS | 07 Policy/launch preview banner stays visible
+PASS | 08 No invented coin purchase claim
+PASS | 09 No invented prizes claim
+PASS | 10 No invented staking claim
+PASS | 11 No automatic Ads conversion script
+PASS | 12 No horizontal scroll on desktop
+PASS | 13 No browser JavaScript error
+PASS | 14 All five CTA clicks open supplied link
+PASS | 15 No click changes shortlink or appends tracking
+PASS | 16 Five clicks recorded as outbound events
+PASS | 17 No page-load conversion event
+PASS | 18 Game rules page renders
+PASS | 19 Game rules page has visible heading
+PASS | 20 Privacy page renders
+PASS | 21 Terms page renders
+PASS | 22 Mobile contact sticky bar displays
+PASS | 23 Mobile WhatsApp contact button enabled
+PASS | 24 Mobile no horizontal overflow
+PASS | 25 Mobile CTA opens exact supplied URL
+PASS | 26 Mobile JavaScript error-free
+PASS | 27 Site readiness remains false pending real game disclosures
+PASS | 28 WhatsApp enabled independently of full ad readiness
+PASS | 29 All three legal pages linked from landing
+
+RESULT: 29/29 passed.
+These are local browser/functionality checks; they do NOT establish Google Ads policy eligibility, actual WhatsApp message delivery or ad approval.
